@@ -24,7 +24,7 @@ export default function HomePage() {
         text: "View Our Services",
         href: "#services",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/manicurist-doing-gel-nail-design-client-close-up_127675-2638.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3FZeKCStq50zFJWSlLQU8JAzf1F/tmp/nails-1782627736532-450c2921.png"
     />
     </SectionErrorBoundary>
   </div>
